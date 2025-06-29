@@ -70,8 +70,4 @@ sound\_clustering\_assignment/
 - 💾 **Data:** Place unzipped `.wav` files inside the `data/` folder before running.
 ```
 
----
-
-You're now 100% ready to zip this folder and submit confidently.
-If you'd like a GitHub-ready version (with setup instructions, badges, or `requirements.txt`), just let me know.
 
