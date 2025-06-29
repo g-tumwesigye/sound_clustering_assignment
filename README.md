@@ -45,5 +45,14 @@ Dimensionality reduction was crucial due to the high-dimensional feature space f
 1. Clone the repository:
    ```bash
    git clone https://github.com/g-tumwesigye/sound_clustering_assignment.git
+   ```
+2. Navigate to the notebook folder:
+   cd sound_clustering_assignment/notebook
+
+3. Launch the notebook:
+jupyter notebook sound_clustering_assignment.ipynb
+
+Author
+Geofrey Tumwesigye
 
    
