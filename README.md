@@ -9,7 +9,9 @@ sound_clustering_assignment/
 ├── README.md              
 ├── data/                    
 ├── notebook/             
-│   └── sound_clustering_assignment.ipynb             
+│   └── sound_clustering_assignment.ipynb
+├── ThinkForge.pdf
+         
 ```
 
 ## Tasks performed
