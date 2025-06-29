@@ -1,9 +1,5 @@
-Awesome! Here's your **final, polished `README.md`** — top-notch, professional, and tailored to your current project structure **(no `utils/` folder mentioned)**:
-
----
-
 ```markdown
-# 🎧 Sound Clustering Assignment – ML Techniques II
+# Sound Clustering Assignment – ML Techniques II
 
 This project applies **unsupervised clustering techniques** on an **unlabeled sound dataset** using Mel Spectrogram features and dimensionality reduction. The goal is to explore cluster structures in audio recordings and compare the effectiveness of **K-Means** and **DBSCAN** algorithms.
 
